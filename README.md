@@ -4,11 +4,6 @@ A business continuity and disaster recovery (BC/DR) plan for a fictional trainin
 
 > **Note:** The scenario and all data are fictional and the work is educational. Parts of the report were drafted with AI assistance (Claude), which is acknowledged in Appendix B of the report. I reviewed the content and checked the calculations.
 
-## Read the report
-
-- [Full report (PDF)](report/Northbridge_BCDR_Report.pdf)
-- [Key tables as Markdown](docs/key-tables.md): objectives, schedule, RACI, runbook, KPIs
-
 ## Scenario
 
 At 08:00 on a Monday, flooding and a power failure make the main site and its local systems unavailable. Five business functions are affected (teaching and assessment, fees, admissions, payroll, records). A 120-candidate exam is due at 11:00. The institute has two technicians, a 25-workstation alternate facility and an annual recovery budget limit of NGN 3,000,000.
